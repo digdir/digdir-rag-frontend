@@ -1,0 +1,11 @@
+.DS_Store
+
+# backend
+backend-bff/.pnp.cjs
+backend-bff/.pnp.loader.mjs
+backend-bff/.yarn/
+
+# frontend
+frontend/.pnp.loader.mjs
+frontend/.pnp.cjs
+frontend/.yarn/
